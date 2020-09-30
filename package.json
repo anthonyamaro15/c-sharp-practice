@@ -1,0 +1,20 @@
+{
+  "name": "c-sharp-practice",
+  "version": "1.0.0",
+  "description": "learning the basics of C#",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyamaro15/c-sharp-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyamaro15/c-sharp-practice/issues"
+  },
+  "homepage": "https://github.com/anthonyamaro15/c-sharp-practice#readme"
+}
